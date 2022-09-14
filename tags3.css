@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto:wght@100&family=Rouge+Script&display=swap');
+
+.card {
+    text-align: end;
+}
+
+.card2 {
+    font-size: 24px;
+    text-align: end;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 80px;
+    color: #A93983;
+}
+
+.card3 {
+    font-size: 18px;
+    text-align: end;
+    font-family: 'roboto', sans-serif;
+
+}
+
+.card4 {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
